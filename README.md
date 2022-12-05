@@ -1,9 +1,9 @@
 # PeopleRegistrationDatabaseAPI 🌐
-🌐 API desenvolvida e conectada ao Database Local (o mesmo Banco de Dados utilizado na aplicação MVC disponível em https://github.com/ViihNeris/People-Registration-MVC) 🎲
+API desenvolvida e conectada ao Database Local (o mesmo Banco de Dados utilizado na aplicação MVC disponível em https://github.com/ViihNeris/People-Registration-MVC) 🎲
 <br><br>
 
 ## Solução ✅
-- Acompanhe abaixo a integração do Banco de Dados local com a API:
+- Acompanhe abaixo a integração do Banco de Dados local com a API: 🌐
 <br>
 
 https://user-images.githubusercontent.com/93789218/205744503-0d31ff00-f2ed-424f-b9e2-91c620e6c1fe.mp4
