@@ -1,4 +1,4 @@
-# PeopleRegistrationDatabaseAPI 🌐
+# people-registration-database-api 🌐
 API desenvolvida e conectada ao Database Local (o mesmo Banco de Dados utilizado na aplicação MVC disponível em https://github.com/ViihNeris/People-Registration-MVC) 🎲
 <br><br>
 
